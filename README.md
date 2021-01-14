@@ -19,7 +19,5 @@ Silver Medal: If you can figure out how to indent the Label with the 0 so that t
 
 Gold Medal: If you can figure out how to make the 0 button take up twice as much width as the "." and "=" buttons.
 
-If you get stuck, check out the solution video in the next lesson.
-
 ![End Banner](Documentation/readme-end-banner.png)
 
