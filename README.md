@@ -1,23 +1,21 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+# Todoey ✓
 
-# Calculator Layout Boss Challenge
+Calculator for iOS using MVC.
 
-No knowledge is your own until you put it into practice. Using what you've learnt about auto layout, stack views and setting constraints, create the following UI. 
+## Getting Started
 
-## Portrait
+In order to run this app clone it and run.
 
-![Portrait](Documentation/Portrait.png)
+### Prerequisites
 
-## Landscape
-![Landscape](Documentation/Landscape.png)
+You will need a mac computer, xcode app and as optional physical iPhone.
 
-This is a difficult challenge. You pass the challenge if you can create the vertical and horizontal stacks required for the layout. Once you've done that, you can also get extra credit if you figure out how to layout the small details.
 
-Bronze Medal: If you can figure out how to have the layout be constrained to the Safe Areas in Portrait and Landscape. (Notice the distance to the edges is different between landscape and portrait.
+<div align="left">
+    <img src="https://github.com/VladimirZhdanov/ToDoey/blob/main/images/IMG_0428.PNG" width="180px"</img>
+        <img src="https://github.com/VladimirZhdanov/ToDoey/blob/main/images/IMG_0429.PNG" width="180px"</img>
+</div>
 
-Silver Medal: If you can figure out how to indent the Label with the 0 so that there is 20px distance from the right edge of the screen.
+## A few words
 
-Gold Medal: If you can figure out how to make the 0 button take up twice as much width as the "." and "=" buttons.
-
-![End Banner](Documentation/readme-end-banner.png)
-
+This application has been created to familiarize myself with the swift programming language and its tools.
