@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "AD0C513222CA22D500AADC4D"
-               BuildableName = "Calculator Layout.app"
-               BlueprintName = "Calculator Layout"
-               ReferencedContainer = "container:Calculator Layout.xcodeproj">
+               BuildableName = "Calculator.app"
+               BlueprintName = "Calculator"
+               ReferencedContainer = "container:Calculator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AD0C513222CA22D500AADC4D"
-            BuildableName = "Calculator Layout.app"
-            BlueprintName = "Calculator Layout"
-            ReferencedContainer = "container:Calculator Layout.xcodeproj">
+            BuildableName = "Calculator.app"
+            BlueprintName = "Calculator"
+            ReferencedContainer = "container:Calculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "AD0C513222CA22D500AADC4D"
-            BuildableName = "Calculator Layout.app"
-            BlueprintName = "Calculator Layout"
-            ReferencedContainer = "container:Calculator Layout.xcodeproj">
+            BuildableName = "Calculator.app"
+            BlueprintName = "Calculator"
+            ReferencedContainer = "container:Calculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
