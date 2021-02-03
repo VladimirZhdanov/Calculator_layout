@@ -1,4 +1,4 @@
-# Todoey ✓
+# Calculator ✓
 
 Calculator for iOS using MVC.
 
